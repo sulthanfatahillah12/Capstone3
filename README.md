@@ -1,6 +1,5 @@
 # Capstone3
 
-## README.md
 
 ### Prediksi Customer Churn di Perusahaan E-Commerce
 
